@@ -1,4 +1,7 @@
 *.pdf
+*.pyc
+*.txt
+*.csv
 
 .DS_Store
 
